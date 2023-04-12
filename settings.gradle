@@ -1,3 +1,4 @@
+//配置第三方依赖的下载位置
 pluginManagement {
     repositories {
         google()
